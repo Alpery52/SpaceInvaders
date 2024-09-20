@@ -2,7 +2,7 @@
 
 This is a simple implementation of the classic *Space Invaders* game, developed in Java. The project was created as part of a semester assignment in the course INF101 at the University of Bergen (UiB).
 
-![Game Screenshot](src/mainjava/SpaceInvaders/Ressurser/startscreen.png)
+![Game Screenshot](src/main/java/SpaceInvaders/Ressurser/startscreen.png)
 
 
 [Watch the demo video here](https://youtu.be/zwQhq_awJ3Y)
