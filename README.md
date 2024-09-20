@@ -51,21 +51,6 @@ The project is organized into several packages, each responsible for different a
 3. **Objective**: Destroy all enemies before they reach the bottom of the screen or shoot you.
 4. **Avoid**: Don’t get hit by enemy projectiles!
 
-## How to Run
-1. Ensure you have **Java 8** or higher installed on your system.
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/username/space-invaders.git
-
-Navigate to the project directory:
-cd space-invaders
-
-Compile the Java files:
-javac SpaceInvadersMain.java
-
-Run the game:
-java SpaceInvadersMain
-
 
 Technologies Used
 Java: The core language used for building the game.
