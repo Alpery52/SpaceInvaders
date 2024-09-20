@@ -52,8 +52,8 @@ The project is organized into several packages, each responsible for different a
 4. **Avoid**: Don’t get hit by enemy projectiles!
 
 
-Technologies Used
-Java: The core language used for building the game.
-MVC Architecture: The game is designed using the Model-View-Controller pattern.
-MIDI: Used to play background music during gameplay.
+## Technologies Used
+- **Java**: The core language used for building the game.
+- **MVC** Architecture: The game is designed using the Model-View-Controller pattern.
+- **MIDI**: Used to play background music during gameplay.
 
