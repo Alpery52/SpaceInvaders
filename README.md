@@ -12,7 +12,6 @@ This is a simple implementation of the classic *Space Invaders* game, developed 
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [How to Play](#how-to-play)
-- [How to Run](#how-to-run)
 - [Technologies Used](#technologies-used)
 
 ## Project Overview
@@ -53,6 +52,8 @@ The project is organized into several packages, each responsible for different a
 2. **Shoot**: Press the **spacebar** to shoot at the enemies.
 3. **Objective**: Destroy all enemies before they reach the bottom of the screen or shoot you.
 4. **Avoid**: Don’t get hit by enemy projectiles!
+![Game Screenshot](src/main/java/SpaceInvaders/Ressurser/inGame.png)
+
 
 
 ## Technologies Used
