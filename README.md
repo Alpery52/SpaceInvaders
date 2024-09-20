@@ -5,7 +5,7 @@ This is a simple implementation of the classic *Space Invaders* game, developed 
 ![Game Screenshot](src/main/java/SpaceInvaders/Ressurser/startscreen.png)
 
 
-[Watch the demo video here](https://youtu.be/zwQhq_awJ3Y)
+## [Watch the demo video here](https://youtu.be/zwQhq_awJ3Y)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
