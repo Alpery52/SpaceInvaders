@@ -27,7 +27,7 @@ This project is a basic recreation of the famous *Space Invaders* arcade game. T
 The project is organized into several packages, each responsible for different aspects of the game:
 
  ```bash
-├── Controller/        # Handles game logic and controls
+├── Controller/        # Handles game controls
 ├── Entities/          # Contains game objects like the player, enemies, and bullets
 ├── Model/             # Manages the state of the game (game data, player, enemies, etc.)
 ├── View/              # Renders the game's visual components (UI)
